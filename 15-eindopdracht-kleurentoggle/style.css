@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  padding: 20px;
+  width: 100px;
+}
+
+.button {
+  padding: 10px 5px;
+}
+ul {
+  list-style-type: none;
+}
+
+.hamburger-img {
+  width: 100%;
+}
+
+.hide-menu {
+  display: none;
+}
+
+.color-orange {
+  background-color: orange;
+}
+
+.color-purple {
+  background-color: purple;
+}
+
+.color-green {
+  background-color: green;
+}
+
+.color-gray {
+  background-color: lightgray;
+}
+
+.color-red {
+  background-color: red;
+}
